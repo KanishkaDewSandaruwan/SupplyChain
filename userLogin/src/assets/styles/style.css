@@ -1,0 +1,50 @@
+.icons{
+    width: 120px;
+    background-color: transparent;
+    border-radius: 50%;
+}
+
+
+.title{
+    color: black;;
+    text-align: center;
+    margin: 3%;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: -5%;
+}
+
+.wrap-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+}
+
+
+.table-wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.fields{
+    border: 0;
+    border-bottom: 2px solid black;
+
+}
+
+.wrap-button{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.button_right{
+    margin-left: auto;
+}
